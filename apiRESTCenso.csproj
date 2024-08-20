@@ -163,6 +163,7 @@
     <Compile Include="Controllers\AdminBdController.cs" />
     <Compile Include="Controllers\CensoController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ItemController.cs" />
     <Compile Include="Controllers\UsuarioController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
